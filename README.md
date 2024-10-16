@@ -52,8 +52,8 @@ Make sure you have the following dependencies installed before running the tool:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/can-see-you.git
-cd can-see-you
+git clone [https://github.com/KiraxD/CanSeeYou.git]
+cd CanSeeYou
 ```
 
 ### Run the Tool
