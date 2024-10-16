@@ -3,7 +3,7 @@
 
 # Who Am I?
 
-**GitHub**: [KiraxD]([(https://github.com/KiraxD)])  
+**GitHub**: [KiraxD](https://github.com/KiraxD)  
 **Name**: Reshob Roychoudhury  
 **Instagram**: [@favautistickid](https://www.instagram.com/favautistickid)  
 **Email**: reshob.rc12345@gmail.com
