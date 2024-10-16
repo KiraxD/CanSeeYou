@@ -169,16 +169,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ---
 
-### Example of Final README File Structure:
 
-```bash
-can-see-you/
-├── LICENSE
-├── README.md
-├── can_see_you.py
-└── requirements.txt
-```
-
----
-
-This **README** file is designed to give potential users or developers all the information they need to install, run, and use your tool, as well as highlight its intended purpose (educational and ethical usage). It follows standard practices for open-source projects on GitHub.
